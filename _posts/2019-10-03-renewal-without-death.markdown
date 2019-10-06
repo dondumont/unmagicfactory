@@ -6,7 +6,7 @@ author: Unsanctioned Magic
 categories: News
 cover: /assets/post_images/deathrenewal.jpg
 ---
-What's old is new again. The Wheel of Becoming turns again and where do we find ourselves? We find ourselves in the Bardo of cyberspace. Do not become distracted. Do not. Become. Distracted. Cast down fear and realize these demons are only the remnants of your physical body. You're safe now. Even though you weren't able to close the womb entrance we're here for you with a brand new website! 
+What's old is new again. The Wheel of Becoming turns and where do we find ourselves? We find ourselves in the Bardo of cyberspace. Do not become distracted. Do not. Become. Distracted. Cast down fear and realize these demons are only the remnants of your physical body. You're safe now. Even though you weren't able to close the womb entrance we're here for you with a brand new website! 
 
 <center>
   <b>unsanctionedmagic.com</b>
