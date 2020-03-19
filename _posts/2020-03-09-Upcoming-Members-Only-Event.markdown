@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "*Canceled* Upcoming Cult Members Only Event"
-date:   2020-03-19 15:16:15 -0700
+date:   2020-03-19 15:05:15 -0700
 author: Unsanctioned Magic
 categories: Drafts-and-Draft
 cover: /assets/post_images/rebel.jpg
