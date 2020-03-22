@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 main_nav: true
 ---
- 
+ <a href="https://patreon.com/unsanctionedmagic" target="_blank">
+  <img src="/assets/patronskull.png" alt="As above, so below." style="width:250px;height:311px;border:0;">
+</a>
 <h1>Unsanctioned Magic</h1>
 Do you like playing Magic: The Gathering? Do you like to hobnob? Do you have an incommunicable interest in the occult? Have you ever felt alone? If you answered yes to any of these questions, Unsanctioned Magic is for you.
 
