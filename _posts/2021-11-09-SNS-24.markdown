@@ -4,7 +4,7 @@ title:  "Swig N' Sealed 24: Innistrad Crimson Vow"
 date:   2021-11-09 11:30:00 -0700
 author: Unsanctioned Magic
 categories: Swig-N'-Sealed
-cover: /assets/post_images/SwigNSealed24VOW.png
+cover: /assets/post_images/sns24banner.png
 ---
 
 <b>Date & Time:</b> Sunday, December 12th, 2021 at 1 PM - 7PM<br>
