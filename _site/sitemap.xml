@@ -40,6 +40,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/calendar/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/discord/</loc>
 </url>
 <url>

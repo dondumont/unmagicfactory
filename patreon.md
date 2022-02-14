@@ -9,5 +9,5 @@ main_nav: true
 We trust you. Do you trust us? Become a member of our  <a href="https://patreon.com/unsanctionedmagic" target="_blank">Patreon Cult</a>. Not only will you get invites to member only events and cool merch but your ritualistic support increaeses the spirit energy in our collective soul cauldron. You'll finally be able to face your nightmares and your step father with a sense of confidence and pride.
 
 <a href="https://patreon.com/unsanctionedmagic" target="_blank">
-  <img src="/assets/patronskull.png" alt="Become a member of our Patreon." style="width:250px;height:311px;border:0;">
+  <img src="/assets/UM_Logo.png" alt="Join our Discord Server." style="width:250px;height:311px;border:0;">
 </a>
