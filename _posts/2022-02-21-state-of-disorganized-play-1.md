@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "State of Disorganized Play 02.22"
-date:   2022-02-22 11:25:00 -0800
+date:   2022-02-23 11:59:00 -0800
 author: Unsanctioned Magic
 categories: News
 cover: /assets/post_images/logomosaic.png
