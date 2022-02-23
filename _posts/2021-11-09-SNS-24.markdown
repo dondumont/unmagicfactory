@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Swig N' Sealed 25: Kamigawa Neon Dynasty"
-date:   2022-02-13 11:30:00 -0700
+title:  "Swig N' Sealed 24: Innistrad Crimson Vow"
+date:   2021-11-09 11:30:00 -0700
 author: Unsanctioned Magic
 categories: Swig-N'-Sealed
-cover: /assets/post_images/sns25banner.png
+cover: /assets/post_images/sns24banner.png
 ---
 
-<b>Date & Time:</b> Sunday, March 13th, 2022 at 1 PM - 5 PM<br>
-<b>Starting Location:</b> TBA<br>
-<b>Format:</b> Kamigawa Neon Dynasty <a href="https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck">Sealed</a> (6 draft booster packs)<br>
+<b>Date & Time:</b> Sunday, December 12th, 2021 at 1 PM - 5 PM<br>
+<b>Starting Location:</b> Lucky Labrador Brewing Company, 915 SE Hawthorne Blvd, Portland, OR<br>
+<b>Format:</b> Innistrad Crimson Vow <a href="https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck">Sealed</a> (6 draft booster packs)<br>
 <b>COVID Requirements:</b> Proof of vaccination or negative COVID test may be required for some locations. Be sure to bring yours.<br>
-RSVP in our <a href="https://discord.gg/N7Vne8He2t" target="_blank"><b>Discord</b></a> or on <a href="https://www.facebook.com/events/1136529670514676" target="_blank"><b>Facebook</b></a>
+RSVP on <a href="https://www.facebook.com/events/197806892403405/" target="_blank"><b>Facebook</b></a>
 
-
+Like thick grease taken from the stomach of some long forgotten whale god, the overhead lights begin to slide into view. Faint laughter can be heard as the smell of rich, sexy, iron floods the nostrils. Your head throbs. Your neck is moist and painful. Is this a dream? Did you sweat the bed again? No. This is not your bed. Could it be?! Have all the night-stalking and custom cape alterations paid off? Have the vampires finally answered your call and welcomed you into their bloody folds? No. These scoundrels surrounding you are not vampires. Who are they and what is a Swig N' Sealed? As if sensing the question in your mind, each turns their eyes to meet yours. "Something much, much better," they whisper.
 
 <hr>
 
