@@ -5,9 +5,21 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jan 2025 20:25:45 -0800</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2025 20:25:45 -0800</lastBuildDate>
+    <pubDate>Thu, 30 Jan 2025 18:09:51 -0800</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2025 18:09:51 -0800</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Swig N&apos; Sealed 39: Aetherdrift</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, February 16th, 2025 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Aetherdrift &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt; (6 play booster packs required)&lt;br /&gt; &lt;br /&gt;...</description>
+        <pubDate>Wed, 29 Jan 2025 11:30:00 -0800</pubDate>
+        <link>http://localhost:4000/swig-n'-sealed/2025/01/29/SNS39.html</link>
+        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2025/01/29/SNS39.html</guid>
+        
+        
+        <category>Swig-N&apos;-Sealed</category>
+        
+      </item>
     
       <item>
         <title>Swig N&apos; Sealed 38: Foundations</title>
@@ -111,18 +123,6 @@
         <pubDate>Wed, 01 Mar 2023 10:30:00 -0800</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2023/03/01/SNS29.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2023/03/01/SNS29.html</guid>
-        
-        
-        <category>Swig-N&apos;-Sealed</category>
-        
-      </item>
-    
-      <item>
-        <title>Swig N&apos; Sealed 28: The Brothers&apos; War</title>
-        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, December 4th, 2022 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Lucky Lab, 915 SE Hawthorne Blvd, Portland, OR 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; The Brothers’ War...</description>
-        <pubDate>Mon, 28 Nov 2022 10:30:00 -0800</pubDate>
-        <link>http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</link>
-        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</guid>
         
         
         <category>Swig-N&apos;-Sealed</category>
