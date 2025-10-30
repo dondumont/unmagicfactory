@@ -1,8 +1,8 @@
-const version = '20250925102319';
+const version = '20251029214816';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/swig-n'-sealed/2025/09/14/SNS43.html","/swig-n'-sealed/2025/07/26/SNS42.html","/swig-n'-sealed/2025/06/01/SNS41.html","/swig-n'-sealed/2025/01/29/SNS40.html","/swig-n'-sealed/2025/01/29/SNS39.html","/swig-n'-sealed/2024/11/06/SNS38.html","/swig-n'-sealed/2024/07/25/SNS37.html","/swig-n'-sealed/2024/07/25/SNS36.html","/swig-n'-sealed/2024/01/15/SNS35.html","/swig-n'-sealed/2024/01/15/SNS34.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/page/3/index.html","/page/4/index.html","/page/5/index.html","/page/6/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/swig-n'-sealed/2025/10/29/SNS44.html","/swig-n'-sealed/2025/09/14/SNS43.html","/swig-n'-sealed/2025/07/26/SNS42.html","/swig-n'-sealed/2025/06/01/SNS41.html","/swig-n'-sealed/2025/01/29/SNS40.html","/swig-n'-sealed/2025/01/29/SNS39.html","/swig-n'-sealed/2024/11/06/SNS38.html","/swig-n'-sealed/2024/07/25/SNS37.html","/swig-n'-sealed/2024/07/25/SNS36.html","/swig-n'-sealed/2024/01/15/SNS35.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/page/3/index.html","/page/4/index.html","/page/5/index.html","/page/6/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
